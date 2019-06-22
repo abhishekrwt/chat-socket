@@ -1,12 +1,3 @@
-/*
- *  server.h
- *  
- *
- *  Created by Ankush Mittal on 01/03/15.
- *  Copyright 2015 IIT. All rights reserved.
- *
- */
-
 #include <sys/socket.h>
 #include <netinet/in.h>
 #include <arpa/inet.h>
